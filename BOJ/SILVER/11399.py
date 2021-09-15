@@ -1,3 +1,4 @@
+# 76ms
 n = int(input())
 times = list(map(int, input().split()))
 
