@@ -12,8 +12,8 @@
 
 ## 📚Reference
 1. 알고리즘 사이트
- + 백준(BOJ): <https://www.acmicpc.net/>, <https://solved.ac/>
- + 프로그래머스
+ + 백준(BOJ): <https://www.acmicpc.net/>
+ 
  
 2. 서적
  + 이것이 취업을 위한 코딩테스트다 with 파이썬
